@@ -1,4 +1,4 @@
-# Bengali-Sentiment-Analysis-on-MT-Dataset
+# Evaluating the Effectiveness of Machine-Translated Datasets for Sentiment Analysis in Low-Resource Languages A Case Study on Bangla
 
 Train:
 To train model please execute the script according to classification algorithm name. For example to train model using hybrid LSTMCNN please run LSTMCNNV4.py
