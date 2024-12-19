@@ -173,7 +173,7 @@ def convert_pytorch_to_tf(pytorch_model_name, tf_model_name):
 # Modify the file paths accordingly for use case
 Kaggle_bengali_dataset = './Data/Kaggle_bengali_dataset.xlsx'
 IMDB_EN_BN_GGL_translation = './Data/EN_to_HN_IMDB_GGL_translation.xlsx'
-Human_translation = './Data/Human_translation.xlsx'
+
 
 location = Kaggle_bengali_dataset
 tokenizer_model_name = 'Kaggle_bengali_dataset'
